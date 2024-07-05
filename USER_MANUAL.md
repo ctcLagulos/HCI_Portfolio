@@ -12,7 +12,7 @@ and deeper cultural understanding.
 
 ### More Info
 
-- **Certificate**: Contains the certificate Johann Gabriel Coching received from the required Coursera course.
+- **Certificate**: Contains the certificate CJ Tom Carlos M. Lagulos received from the required Coursera course.
 - **Part 1**: Includes major assets such as team logos, the app presentation, and proposal.
 - **Part 2**: Contains design proposals, base assets, alternatives, wireframes, and app scenarios.
 - **Part 3**: Features the final mockup/prototype, detailed app description, survey results, and their interpretation.
